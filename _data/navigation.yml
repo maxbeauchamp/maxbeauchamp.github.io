@@ -1,0 +1,19 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/  
+  - title: "Publications/CV"
+    url: /publications/ 
+  - title: "Blog"
+    url: /blog/
+  - title: "ML Datasets"
+    url: http://mldata.pangeo.io/
+  
+  # - title: "Press/Outreach"
+  #   url: /press/ 
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
