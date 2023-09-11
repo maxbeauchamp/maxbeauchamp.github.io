@@ -4,7 +4,7 @@ permalink: /publications/
 classes: wide
 ---
 
-## Publications
+## Peer-reviewed publications
 
 **2023**. *Deep parameter estimation embedded in SPDEs models: towards a stochastic formulation of neural variational scheme for learning priors and solvers*. Beauchamp M., Fablet R., Johnson J.E., Benaïchouche S., Tandeo P. and Desassis N. submitted to ...
 
