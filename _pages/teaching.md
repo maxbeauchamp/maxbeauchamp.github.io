@@ -4,7 +4,7 @@ permalink: /teaching/
 classes: wide
 ---
 
-## Courses:
+## Courses
 
 *2019 - now*  
 **Lecturer**, *CNAM (Centre National des Arts et Métiers)*, Paris.
@@ -15,7 +15,7 @@ course unit (every year between March and April).
 [SALMO-Skol](https://www.isblue.fr/actualites/ecole-dete-salmo-skol-27-juin-1er-juillet/) (summer school) 
 Theme 4 with [Pierre Tandeo](https://tandeo.wordpress.com/): Data processing of Salmon datasets in Brittany (France)
 
-## Trainings:
+## Trainings
 
 *since 2019*: 
 **Trainer**. 
