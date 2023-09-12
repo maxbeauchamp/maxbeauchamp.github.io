@@ -7,7 +7,7 @@ layout: archive
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_news | default: "Blog" }}</h3>
 
 <div>
-{% capture p1 %}{% include _pages/news.md %}{% endcapture %}
+{% capture p1 %}{% include side.pages.news %}{% endcapture %}
 {{ p1 | markdownify }}
 </div>
 
