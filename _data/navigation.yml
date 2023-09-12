@@ -7,6 +7,10 @@ main:
     url: /conferences/
   - title: "Teaching"
     url: /teaching/
+  - title: "Results"
+    url: /results/
+  - title: "Projects"
+    url: /projects/
   - title: "Blog"
     url: /blog/
   - title: "ML data challenges"
