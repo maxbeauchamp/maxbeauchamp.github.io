@@ -49,30 +49,4 @@ https://doi.org/10.1016/j.envsoft.2018.03.
 
 **2014**. *Can further mitigation of ammonia emissions reduce exceedances of particulate matter air quality standards?* Bessagnet B., Beauchamp M., Guerreiro C., de Leeuw F., Tsyrod S., Ruyssenaars R., Sauter F., Velders G., Meleux F., Colette A., Rouil L.,Environmental Science & Policy, Vol. 44, 149-163, DOI: https://doi.org/10.1016/j.envsci.2014.07.
 
----
-
-## Talks and conference presentations
-
-*Invited talks*
-
-[**Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling**](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling), Online, March 2021    
-*The optimization dichotomy: Why is it so hard to improve climate models with machine learning?*
-
-**AI for Earth Sciences Workshop, NeurIPS**, Online, December 2020    
-Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good Ones for Earth Science*, [Video](https://slideslive.com/38938428/why-benchmarks-are-crucial-for-progress-in-ai-and-how-to-design-good-one-for-es)
-
-**Workshop on Data Science and Machine Learning**, AGU Fall Meeting, Washington DC, USA, December 2018   
-*Opportunities and challenges for machine learning parameterizations*
-
-
-*Conferences*
-
-**American Geophysical Union Fall Meeting**, Online, December 2020  
-*Data-driven Medium-range Weather Prediction Achieves Comparable Skill to Dynamical Models. But What Does It Mean?*, Virtual Poster 
-
-
-## Workshops
-
-**Waves 2 Weather Early Career Scientists**, Online, October 2020    
-*Three-day workshop on machine learning and AI* [Link](https://www.wavestoweather.de/meetings/ecs-ml-workshop2020/index.html)
 
