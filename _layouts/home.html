@@ -4,12 +4,15 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_news | default: "Blog" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_news | default: "News" }}</h3>
 
 {% capture my_include %}{% include_relative _pages/news.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].timeline | default: "T" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].timeline | default: "Timeline" }}</h3>
+
+{% capture my_include %}{% include_relative _pages/timeline.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].research_topics | default: "Research Topics" }}</h3>
 
