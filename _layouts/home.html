@@ -8,7 +8,7 @@ layout: archive
 
 <div>
 {% capture p1 %}
-  {% include /news/ %}
+  {% include {{site.baseurl}}/news/ %}
 {% endcapture %}
 {{ p1 | markdownify }}
 </div>
