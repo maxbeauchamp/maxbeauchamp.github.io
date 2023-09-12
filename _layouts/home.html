@@ -13,6 +13,9 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].research_topics | default: "Research Topics" }}</h3>
 
+{% capture my_include %}{% include_relative _pages/rtopics.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Blog" }}</h3>
 
 {% for post in paginator.posts %}
