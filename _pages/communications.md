@@ -2,6 +2,8 @@
 title:  "Publications"
 permalink: /publications/
 classes: wide
+header:
+    overlay_image: /assets/images/back.png
 ---
 
 ## Peer-reviewed publications
