@@ -1,14 +1,20 @@
 * Data-driven data assimilation  
 
-<img src="{{ site.url }}/assets/images/cropped.gif" height="200">
-*Reconstruction (left) and SSH observation datasets (right)*
+<figure>
+  <img src="{{ site.url }}/assets/images/cropped.gif" height="200">
+  <figcaption>Reconstruction (left) and SSH observation datasets (right)</figcaption>
+</figure>
 
 * Model emulation
 
-<img src="{{ site.url }}/assets/images/animation_NO2.gif" height="200">
-*coarse resolution (left) and high resolution (right) of daily NO2 in France (2015)* 
+<figure>
+  <img src="{{ site.url }}/assets/images/animation_NO2.gif" height="150">
+  <figcaption>Coarse resolution (left) and high resolution (right) of daily NO2 in France (2015)</figcaption>
+</figure>
 
 * Risk assessment
 
-<img src="{{ site.url }}/assets/images/Proba_annuelle_DS_2011.png" height="200">
-*Probability of exceeding annual PM10 regulatory thresholds in France (2009)*
+<figure>
+  <img src="{{ site.url }}/assets/images/Proba_annuelle_DS_2011.png" height="100">
+  <figcaption>Probability of exceeding annual PM10 regulatory thresholds in France (2009)</figcaption>
+</figure>

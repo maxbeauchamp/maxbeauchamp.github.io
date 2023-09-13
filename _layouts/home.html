@@ -1,5 +1,13 @@
 ---
 layout: archive
+feature_row:
+  - image_path: /assets/images/mrb.jpg
+    alt: "customizable"
+    title: "Maison de la rivière et de la biodiversité"
+    excerpt: "Association pour la défense de l’environnement autour des rivières"
+    url: "https://www.maison-de-la-riviere.com"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {{ content }}
@@ -25,4 +33,9 @@ layout: archive
   {% include archive-single.html %}
 {% endfor %}
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].related_label | default: "You may also like" }}</h3>
+
+{% include feature_row %}
+
 {% include paginator.html %}
+
