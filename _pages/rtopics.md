@@ -15,6 +15,6 @@
 * Risk assessment
 
 <figure>
-  <img src="{{ site.url }}/assets/images/Proba_annuelle_DS_2011.png" height="100">
+  <img src="{{ site.url }}/assets/images/Proba_annuelle_DS_2011.png" height="20">
   <figcaption>Probability of exceeding annual PM10 regulatory thresholds in France (2009)</figcaption>
 </figure>
