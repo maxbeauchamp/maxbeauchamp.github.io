@@ -1,5 +1,5 @@
 ---
-title:  "results"
+title:  "Results"
 permalink: /results/
 classes: wide
 ---
