@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Maxime Beauchamp"
   avatar           : "/assets/images/portrait.jpg" 
-  bio              : "Postdoctoral researcher at IMT Atlantique/Lab-STICC/Odyssey"
-  location         : "Brest, France"
+  bio              : "Research scientist at the Danish Meteorological Institute and associate researcher at IMT Atlantique/Lab-STICC/Odyssey"
+  location         : "København, Denmark"
   # email            : "raspstephan@gmail.com"
   links:
     - label: "Email"
