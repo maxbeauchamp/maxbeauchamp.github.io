@@ -8,7 +8,15 @@ header:
 
 ## Peer-reviewed publications
 
-**2023**. *Deep parameter estimation embedded in SPDEs models: towards a stochastic formulation of neural variational scheme for learning priors and solvers*. <span style="color:blue">Beauchamp M.</span>, Fablet R., Johnson J.E., Benaïchouche S., Tandeo P. and Desassis N. submitted to ...
+**2025**. *Fast and scalable Air Quality neural emulator for high-resolution predictions on very large domains*. <span style="color:blue">Maxime Beauchamp.</span>, Vincent Lécluse, Nicolas Thorr, Anas Oubida, Charles Schillinger, Florent Vasbien, Jérôme Le Paih. Submitted to JGRL.
+
+**2025**. *Enhancing Air Quality simulations with neural downscaling architectures*. <span style="color:blue">Beauchamp M.</span>, Bessagnet B., Pisoni E., Rey Pommier A., De Meij A. and Thunis P. Atmospheric Sciences Letters., https://doi.org/10.1002/asl.70003
+
+**2025**. *Multiscale neural assimilation scheme for learning Near-Real-Time Level 4 SST products from satellite observations*. <span style="color:blue">Beauchamp M..</span>, Karagali I., Gacitúa G., Høyer J.L., Ballarotta M. and Fablet R. Nature Scientific Report, https://doi.org/10.1038/s41598-025-23682-9
+
+**2025**. *Neural variational Data Assimilation with Uncertainty Quantification using SPDE priors*. <span style="color:blue">Beauchamp M.</span>, Fablet R., Benaı̈chouche S., Tandeo P. and Desassis N. Artificial Intelligence for the Earth Systems. American Meteorological Society. https://doi.org/10.1175/AIES-D-24-0060.1
+
+**2024**. *Data-driven spatio-temporal interpolation for satellite-derived geophysical tracers*.<span style="color:blue"> Beauchamp M.</span> and Fablet R. chapter 6 in Multitemporal Earth Observation Image Analysis: Remote Sensing Image Sequences, https://doi.org/10.1002/9781394306657.ch6
 
 **2023**. *Ensemble-based 4DVarNet uncertainty quantification for the reconstruction of Sea Surface Height dynamics*. <span style="color:blue">Beauchamp M.</span>, Febvre Q., and Fablet R. Environmental Data Science2, E18. doi: 10.1017/eds.2023.
 
@@ -19,8 +27,6 @@ header:
 **2023**. *An iterative optimization scheme to accommodate inequality constraints in air quality geostatistical estimation of multivariate PM*. <span style="color:blue">Beauchamp M.</span>, Bessagnet B. Heliyon. Volume 9, Issue 6, doi: 10.1016/j.heliyon.2023.e
 
 **2021**. *Joint Interpolation and Representation Learning for Irregularly Sampled Satellite-Derived Geophysical Fields*. Fablet R., <span style="color:blue">Beauchamp M.</span>, Drumetz L. and Rousseau F. Frontiers in Applied Mathematics and Statistics. https://www.frontiersin.org/articles/10.3389/fams.2021.655224    
-
-**2021**. *Data-driven spatio-temporal interpolation for satellite-derived geophysical tracers*. <span style="color:blue">Beauchamp M.</span> and Fablet R. In Multitemporal Earth Observation Image Analysis
 
 **2021**. *Deep learning techniques applied to super-resolution chemistry transport modeling for operational uses*. Bessagnet B., <span style="color:blue">Beauchamp M.</span>, Menut L., Fablet R., Pisoni E. and Thunis P. Environ. Res. Commun.Volume 3, Number 8, doi: 10.1088/2515-7620/ac17f
 

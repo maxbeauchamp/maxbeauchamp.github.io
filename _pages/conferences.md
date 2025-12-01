@@ -6,6 +6,17 @@ classes: wide
 
 ## Talks and conference presentations
 
+2025 **EURIPS 2025**. København, Denmark.
+
+2025 **IICWG25**. Tromsø, Norway.
+
+2025 **ESA Living Planet Symposium**. Vienna, Austria.
+
+2024 (25) **International SST Users’ Symposium and GHRSST Science Team Meeting (GHRSST)**. Montreal,
+Canada.
+
+2024 **Ocean Extremes**. International Liège Colloquium 2024. Liège, Belgium.
+
 2023 **ICCS 2023**, Machine Learning and Data assimilation for Dynamical System. Prague, République Tchèque
 
 2023 **Climate Informatics 2023**. Cambridge, UK.

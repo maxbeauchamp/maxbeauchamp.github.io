@@ -1,5 +1,8 @@
-**2023**. New article in *Environmental Data Science*. *Ensemble-based 4DVarNet uncertainty quantification for the reconstruction of Sea Surface Height dynamics*. <span style="color:blue">Beauchamp M. et al.</span>. More details [here](https://www.cambridge.org/core/journals/environmental-data-science/article/ensemblebased-4dvarnet-uncertainty-quantification-for-the-reconstruction-of-sea-surface-height-dynamics-erratum/30975803D4EBFCA5A1FFA419AEC16856]).
+**2025**. *Fast and scalable Air Quality neural emulator for high-resolution predictions on very large domains*. <span style="color:blue">Maxime Beauchamp.</span>, Vincent Lécluse, Nicolas Thorr, Anas Oubida, Charles Schillinger, Florent Vasbien, Jérôme Le Paih. Submitted to JGRL.
 
-**2023**. New article in *Computational Science - ICCS 2023*. *Learning Neural Optimal Interpolation Models and Solvers*. <span style="color:blue">Beauchamp M.et al.</span>. More details [here](https://link.springer.com/chapter/10.1007/978-3-031-36027-5_28]).
+**2025**. *Enhancing Air Quality simulations with neural downscaling architectures*. <span style="color:blue">Beauchamp M.</span>, Bessagnet B., Pisoni E., Rey Pommier A., De Meij A. and Thunis P. Atmospheric Sciences Letters., https://doi.org/10.1002/asl.70003
 
-**2023**. New article in *GMD*. *4DVarNet-SSH: end-to-end learning of variational interpolation schemes for nadir and wide-swath satellite altimetry*. <span style="color:blue">Beauchamp M. et al.</span>. More details [here](https://gmd.copernicus.org/articles/16/2119/2023/).
+**2025**. *Multiscale neural assimilation scheme for learning Near-Real-Time Level 4 SST products from satellite observations*. <span style="color:blue">Beauchamp M..</span>, Karagali I., Gacitúa G., Høyer J.L., Ballarotta M. and Fablet R. Nature Scientific Report, https://doi.org/10.1038/s41598-025-23682-9
+
+**2025**. *Neural variational Data Assimilation with Uncertainty Quantification using SPDE priors*. <span style="color:blue">Beauchamp M.</span>, Fablet R., Benaı̈chouche S., Tandeo P. and Desassis N. Artificial Intelligence for the Earth Systems. American Meteorological Society. https://doi.org/10.1175/AIES-D-24-0060.1
+
