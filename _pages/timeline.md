@@ -1,4 +1,4 @@
-**Since 2023.** <span style="color:blue">*Visiting researcher*</span>, Danisk Meteorological Institute, Copenhague
+**Since 2024.** <span style="color:blue">*Research scientist*</span>, Danisk Meteorological Institute, Copenhague
 
 **Since 2019.** <span style="color:blue">Postdoctoral researcher*</span>, Institut Mines-Télécom Atlantique, MEE department and & LAB-STICC
 TOMS team & Odyssey, Brest
