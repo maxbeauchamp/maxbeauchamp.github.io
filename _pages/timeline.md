@@ -1,3 +1,5 @@
+**Since 2026.** <span style="color:blue">*Research scientist*</span>, CMCC Foundation, Bologna
+
 **Since 2024.** <span style="color:blue">*Research scientist*</span>, Danisk Meteorological Institute, Copenhague
 
 **Since 2019.** <span style="color:blue">Postdoctoral researcher*</span>, Institut Mines-Télécom Atlantique, MEE department and & LAB-STICC
